@@ -7,7 +7,7 @@ Let's be real: bank statements are messy and impossible to read. SpendDNA is a P
 
 It takes 6 months of raw, ugly UPI and bank exports, cleans the data, and spits out a clean, readable summary of spending habits.It categorizes purchases, flags weirdly high transactions, and even assigns a financial "personality type" (like if you're a late-night Swiggy orderer).
 
-## The Challenge (Strict Rules)
+## The Challenge (Strings, Lists, Dicts, Sets, Functions, NumPy, Pandas, Datetime, EDA, Anomaly Detection).
 Anyone can use AI or fancy pre-built tools to read a CSV, but this project was built under strict constraints to prove real data-wrangling skills.
 
 **What I used:** 
@@ -26,8 +26,7 @@ Anyone can use AI or fancy pre-built tools to read a CSV, but this project was b
 5. **Anomaly Detection:** Uses Z-scores to flag unusually high transactions automatically.
 6. **Archetype Engine:** Assigns fun labels like "The YOLO Spender" or "The Shopaholic" based on the math.
 
-## The Results
-*(Drop the screenshot of your final printed report here!)*.
+
 
 ## How to run it yourself
 1. Clone this repo.
